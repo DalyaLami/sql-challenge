@@ -12,8 +12,8 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
     1. Remember to specify the data types, primary keys, foreign keys, and other constraints.
 
-    2. For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site,
-       which takes  two primary keys to uniquely identify a row.
+    2. For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external 
+       site, which takes  two primary keys to uniquely identify a row.
 
     3. Be sure to create the tables in the correct order to handle the foreign keys.
 
