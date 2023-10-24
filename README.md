@@ -18,7 +18,7 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 2- Import each CSV file into its corresponding SQL table.
 
-**HINT:
+* Hint:
 
 To avoid errors, import the data in the same order as the corresponding tables got created. And, remember to account for the headers when doing the imports.
 
